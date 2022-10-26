@@ -7,11 +7,13 @@
       },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "total_view": 450,
+      
       "title": "Premium React Course",
+      
       "author": {
         "name": "React",
-        "published_date": "2022-08-24 17:27:34",
+        "published_date": "4000 tk",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"
       },
       "thumbnail_url": "https://reactjs.org/logo-og.png",
@@ -30,7 +32,7 @@
       "title": "Premium Html 5 Course",
       "author": {
         "name": "Html",
-        "published_date": "2022-08-24 17:27:34",
+        "published_date": "24000 tk",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
       },
       "thumbnail_url": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/08/html.png",
@@ -50,7 +52,7 @@
       "title": "Python Premium Course",
       "author": {
         "name": "Python",
-        "published_date": "2022-08-30 16:38:45",
+        "published_date": "4000 tk",
         "img": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png"
       },
       "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
@@ -91,7 +93,7 @@
       "title": " Advance Php Courses",
       "author": {
         "name": "PHP",
-        "published_date": "2022-08-25 18:53:49",
+        "published_date": "4000 tk",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
       },
       "thumbnail_url": "https://www.php.net/images/meta-image.png",
@@ -110,7 +112,7 @@
       "title": "Mern Stack Developer",
       "author": {
         "name": "Mern Stack",
-        "published_date": "2022-08-25 18:53:49",
+        "published_date": "4000 tk",
         "img": "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png"
       },
       "thumbnail_url": "https://static.javatpoint.com/blog/images/mern-stack.png",
